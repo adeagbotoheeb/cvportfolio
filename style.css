@@ -1,0 +1,119 @@
+* {
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: white;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    width: 100%;
+    background-color: white;
+    height: 100px;
+    margin: 10px auto;
+    
+}
+
+.heading {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.heading h2 {
+    font-size: 32px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.heading h4 {
+    font-size: 14px;
+    margin-top: 3px;
+    font-weight: lighter;
+    margin-inline-start: 0;
+    margin-block-end: 0;
+}
+
+.heading a {
+    font-size: 14px;
+    margin-top: -3px;
+    font-weight: lighter;
+}
+
+.education {
+    padding-left: 50px;
+}
+
+.education h3 {
+    font-size: 19px;
+    width: 80%;
+    border-bottom: 1px solid black;
+}
+
+.school {
+    display: flex;
+    font-size: 15px;
+}
+
+.school h4 :last-child {
+    margin-left :34px
+}
+
+.education p {
+    font-size: 16px;
+    margin-top: 15px;
+    margin-left: 48px;
+}
+
+.obj h3 {
+    text-align: left;
+    width: 80%;
+    border-bottom: 1px solid black;
+    padding-left: 50px;
+}
+
+.obj p {
+    padding-left: 50px;
+}
+
+.data {
+    padding-left: 50px;
+
+}
+
+.data h3{
+    font-size: 17px;
+    width: 80%;
+    border-bottom: 1px solid black;
+}
+
+.personal{
+    padding-left: 50px;
+}
+
+.personal h3:first-child{
+    width: 80%;
+    border-bottom: 1px solid black;
+
+}
+
+.personal h3:last-child{
+    width: 80%;
+    border-bottom: 1px solid black;
+
+}
+
+.experience{
+    padding: 50px;
+    
+}
+
+.experience h3:first-child {
+    width: 80%;
+    border-bottom: 1px solid black;
+}
+
+
