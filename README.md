@@ -1,2 +1,2 @@
 # cvportfolio
-https://adeagbotoheeb.github.io/cvportfolio/
+https://adeagbotoheeb.github.io/cvportfolio/Index.html
